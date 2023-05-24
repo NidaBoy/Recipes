@@ -26,6 +26,7 @@ Uma rede social de postagem de receitas
 - Json web Token
 - Bcrypt
 
+
 ## Backlog do Produto
 
   - Como usuário, quero me cadastrar usando meu e-mail e senha para criar uma conta no serviço.
@@ -40,3 +41,5 @@ Uma rede social de postagem de receitas
 
   - Como usuário, quero me cadastrar usando meu e-mail e senha para criar uma conta no serviço.
   - Como usuário, quero fazer login com meu e-mail e senha.
+  - Como usuário, quero criar receitas com informações detalhadas de ingredientes e procedimentos e uma foto mostrando a receita.
+  - Como usuário, quero ver a lista de receitas que criei.
