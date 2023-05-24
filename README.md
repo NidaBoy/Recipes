@@ -22,6 +22,9 @@ Uma rede social de postagem de receitas
 - E - ExpressJS
 - R - ReactJS
 - N - NodeJS 
+- Bcrypt
+- Axios
+- JsonwebToken
 
 ## Backlog do Produto
 
@@ -34,5 +37,7 @@ Uma rede social de postagem de receitas
   - Como usuário, quero adicionar receitas aos meus favoritos para encontrá-las facilmente no futuro.
 
 ## Backlog da Sprint
-
-  - 
+  - Como usuário, quero me cadastrar usando meu e-mail e senha para criar uma conta no serviço.
+  - Como usuário, quero fazer login com meu e-mail e senha.
+  - Como usuário, quero criar receitas com informações detalhadas de ingredientes e procedimentos e uma foto mostrando a receita.
+  - Como usuário, quero ver a lista de receitas que criei.
