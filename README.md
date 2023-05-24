@@ -22,6 +22,9 @@ Uma rede social de postagem de receitas
 - E - ExpressJS
 - R - ReactJS
 - N - NodeJS 
+- Axios
+- Json web Token
+- Bcrypt
 
 ## Backlog do Produto
 
@@ -35,4 +38,5 @@ Uma rede social de postagem de receitas
 
 ## Backlog da Sprint
 
-  - 
+  - Como usuário, quero me cadastrar usando meu e-mail e senha para criar uma conta no serviço.
+  - Como usuário, quero fazer login com meu e-mail e senha.
