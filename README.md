@@ -40,8 +40,3 @@ Uma rede social de postagem de receitas
 
   - Como usuário, quero me cadastrar usando meu e-mail e senha para criar uma conta no serviço.
   - Como usuário, quero fazer login com meu e-mail e senha.
-  - Como usuário, quero criar receitas com informações detalhadas de ingredientes e procedimentos e uma foto mostrando a receita.
-  - Como usuário, quero ver a lista de receitas que criei.
-  - Como usuário, quero ver informações detalhadas das receitas, incluindo fotos e instruções.
-  - Como usuário, quero editar as receitas que criei.
-  - Como usuário, quero adicionar receitas aos meus favoritos para encontrá-las facilmente no futuro.
