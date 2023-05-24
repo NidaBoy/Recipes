@@ -98,3 +98,5 @@ router.get("/receitasSalvas/:userId", async (req, res) => {
 
 export { router as routerReceitas };
 
+
+export { router as routerReceitas };
